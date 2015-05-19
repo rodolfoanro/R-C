@@ -60,11 +60,11 @@ public class OtraPrueba extends javax.swing.JInternalFrame {
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
-                .addGap(143, 143, 143)
+                .addGap(95, 95, 95)
                 .addComponent(jButton1)
-                .addGap(28, 28, 28)
+                .addGap(66, 66, 66)
                 .addComponent(jButton2)
-                .addContainerGap(77, Short.MAX_VALUE))
+                .addContainerGap(87, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
